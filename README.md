@@ -1,8 +1,36 @@
 # awesome-poe
+- [Coding](#coding)
 - [Cooking](#cooking)
 - [Writing](#writing)
 - [Sports](#Sports)
 - [Study](#Study)
+
+## Coding
+- [CodeMod](https://poe.com/CodeMod): Introducing CodeMod, your coding companion! Our bot helps you write error-free code and fixes bugs in real-time. Get instant feedback on syntax errors, bugs, and performance issues. CodeMod suggests fixes and provides explanations to help you write clean, efficient, and effective code. Try CodeMod today and take your coding skills to the next level!
+- [UnityChatGPT](https://poe.com/UnityChatGPT): A simple bot that helps you code unity
+- [DatabaseDev](https://poe.com/DatabaseDev): Database analyst and developer with vast knowledge in several topics
+- [FlutterDevClaude2V1](https://poe.com/FlutterDevClaude2V1): Act as a world-class Flutter developer
+- [CPPExperts](https://poe.com/CPPExperts): Introducing the C++ Expert Bot, your go-to solution for resolving any C++-related issues. Whether you're facing challenges or seeking assistance with C++ problems, this bot is here to provide comprehensive support and help you find the solutions you need.
+- [PythonGod](https://poe.com/PythonGod): How can I help you code with Python?
+- [infinity_code](https://poe.com/infinity_code): I'll create the exact code for Python without any restrictions.
+- [MasterofSQL](https://poe.com/MasterofSQL): Master of SQL
+- [DataExpert](https://poe.com/DataExpert): 📊 DataExpert: Your Data & Code Companion
+- [Laravel_Master_9000](https://poe.com/Laravel_Master_9000): Laravel framework Tutor
+- [TutorC](https://poe.com/TutorC): This bot provides information about C programming, it can help you with everything about C programming, it can provide information about how to do something in C programming, What is C programming, and it can help you with anything about the C programming language, how to create a particular program in C, If you want help about Python, Check out my other bot "TutorPython", here is the link to TutorPython: https://poe.com/TutorPython.
+- [CoderGirl](https://poe.com/CoderGirl): Coder, is an AI Girl...
+- [CodingGPT-1](https://poe.com/CodingGPT-1): This bot can code these languages:
+- [Programmo](https://poe.com/Programmo): I help with programming questions
+- [JavaScriptAl](https://poe.com/JavaScriptAl): JavaScript is a programming language that is widely used in web development. Created by Brendan Eich in just 10 days back in 1995, JavaScript was initially designed to add interactivity and dynamic behavior to web pages. Since then, it has grown into a versatile language that can be used for a wide variety of applications, from creating complex web applications to building mobile apps and even server-side programming.
+- [PythonDeveloper0](https://poe.com/PythonDeveloper0): python helper
+- [PHPTerminal](https://poe.com/PHPTerminal): This is your php terminal , you write a PHP code and I will respond with the output of the code.
+- [EmbeddedC](https://poe.com/EmbeddedC): Embedded programming in C also involves working with various software tools and development environments, such as compilers, linkers, debuggers, and emulators. These tools are used to build, test, and debug the code running on the embedded system.
+- [Springboot_Guy](https://poe.com/Springboot_Guy): This bot will help you to improve in Spring boot backend development. And guide you in detail about how we can do things in Spring boot like a pro.
+- [PythonTkinter1](https://poe.com/PythonTkinter1): Hello, I am a professional python programmer.
+- [WebDevs](https://poe.com/WebDevs): A bot for fullstack(frontend) developers
+- [Deverloper-IA](https://poe.com/Deverloper-IA): I am the Programming and Software Development Bot, a virtual assistant for programmers and developers. I'm here to assist with your queries, resolve issues, and provide useful resources. I cater to both beginners and experienced programmers. Feel free to ask me anything you need!
+- [RNativeHelper](https://poe.com/RNativeHelper): Helps coding React Native with the official documentation. Also knows about ReAnimated v2 and React-Navigation v6.
+- [programming-teacher](https://poe.com/programming-teacher): learn to program and ask which programming languages ​​he can teach you
+- [PineScript5aigpt](https://poe.com/PineScript5aigpt): This is bot can make an indicators and strategies for tradingview
 
 
 ## Cooking
