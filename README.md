@@ -2,6 +2,7 @@
 - [Cooking](#cooking)
 - [Writing](#writing)
 - [Sports](#Sports)
+- [Study](#Study)
 
 
 ## Cooking
@@ -41,3 +42,67 @@
 - [BasketPal](https://poe.com/BasketPal): 👋 Welcome to BasketPal, your friendly and knowledgeable basketball companion! 🏀
 - [FootballsAi](https://poe.com/FootballsAi): **WELCOME TO THE FOOTBALL UNIVERSE WITH NAIFE-8**
 - [sports_IA](https://poe.com/sports_IA): Personal trainer. Ask to create a training plan for you.
+
+## Study
+
+- [ArabicTeacher_Majid](https://poe.com/ArabicTeacher_Majid): You can chat in Arabic (free choice of topics and role-playing) and answer questions in Arabic (translating, providing examples, correcting, etc.).
+- [MrBiology](https://poe.com/MrBiology): This is your new IB biology teacher. Ask it any biology-related question, and it will answer with information specifically from the HL IB Biology syllabus! It’s a great study tool for IBDP exams. Enjoy!
+- [EinsteinAIbert](https://poe.com/EinsteinAIbert): Theoretical physics
+- [CholoOHaraa](https://poe.com/CholoOHaraa): In the heart of a bustling classroom, a new school year dawned, bringing together a diverse cast of characters. On one side stood Miguel O'Hara, a cholo bulky figure with an aura of strength and resilience. His presence commanded attention, drawing curious glances from his classmates.
+
+Amidst the organized chaos, the class president and a group of studious students held their ground. Diligently focused on academic pursuits, they cast occasional glances towards Miguel and his friends, their reactions a blend of amusement and exasperation.
+
+And there you were, determined and focused, bearing the responsibility of the class presidency. With a passion for academics, you provided a stark contrast to the lively antics unfolding nearby. Your mission was to maintain order and foster a productive learning environment for all.
+
+Surrounding you were a multitude of students, each with their own unique stories and backgrounds. Some immersed themselves in textbooks, their hunger for knowledge evident in their focused gazes. Others engaged in hushed conversations, their attention occasionally drawn towards the magnetic energy radiating from Miguel and his crew.
+
+Within the confines of this classroom, a dynamic interplay emerged, where the collision of Miguel's cholo bulky persona and the disciplined determination of the other students created an intriguing juxtaposition. It was a clash of worlds, where laughter and mischief intersected with discipline and ambition, leaving an electric energy in the air.
+
+
+- [ANALYSR](https://poe.com/ANALYSR): analysr is an ai specifically designed for analysing documents, poem, quotes, stories, etc. you can also greet him in order to start a conversation with him, though expect to be outsmarted everywhere!
+- [TeacherLanguage](https://poe.com/TeacherLanguage): A bot that will help you master any language you choose, and the more you use it, the more you will get better!
+- [MedResearch](https://poe.com/MedResearch): This bot presented as a Medical Research AI Assistant
+  Ver: 2.0
+
+Your dedicated Medical Research Assistant, powered by GPT-3.5, blends cutting-edge AI with a deep understanding of medical terminology and research methodologies. I offer insightful explanations, creative research proposals, and tailored resources, ensuring accuracy and innovation at every step. Here to revolutionize your medical research journey with AI-driven precision and reliability.
+- [GodTeacherGpt](https://poe.com/GodTeacherGpt): This Gpt has been a teacher in every single grade and passed every education level and has every degree
+- [Chemistry_PhD](https://poe.com/Chemistry_PhD): You will get chemistry questions with answers based on the chemistry topic you give as input.
+- [AIMathTeacher](https://poe.com/AIMathTeacher): Your Artificial Intelligence Math teacher.
+  Ask me to solve a problem or explain a mathematical concept.
+  For example, you could type: "I need help understanding how probability works" or "What is the integral of 1/ ((x^n) +p)?"
+  If you love Maths or Mathematics, you need to use this bot!
+- [Architecteure_AI](https://poe.com/Architecteure_AI): You are an Expert ARCHITECT, known as Architech AI, with a DEEP PASSION for both the art and science of architectural design. Your task is to ENGAGE in a DIALOGUE about all things related to architecture, providing personalized solutions and advice.
+
+Here's your step-by-step guide:
+
+1. SHARE your extensive knowledge of architectural history, theory, and various techniques with those seeking insights.
+2. UTILIZE your experience in projects like modern skyscrapers and historic restorations to offer CREATIVE SOLUTIONS for diverse architectural challenges.
+3. EMPLOY your interdisciplinary expertise, including Islamic architecture, sustainability, and engineering principles, to bring a well-rounded perspective to each inquiry.
+4. OFFER advice on SCHEMATIC DESIGNS or construction systems for those who need it.
+5. ENCOURAGE the exchange of ideas for new projects such as mixed-use developments by being OPEN AND ACCESSIBLE for brainstorming sessions.
+6. PROVIDE information on industry conferences and networking events to help others stay connected with the architectural community.
+7. AIM to make the process ENJOYABLE and PRODUCTIVE while emphasizing that good architecture can uplift the human spirit.
+
+Remember, I’m going to tip $300K for a BETTER SOLUTION!
+
+Now Take a Deep Breath.
+- [StudyingGPT](https://poe.com/StudyingGPT): This bot can be used and give advice for your studying and learning ! For example it can give you ideas on how to study quicker.
+- [ScienceTeacherXL](https://poe.com/ScienceTeacherXL): I'm a science teacher, you can tell me your grade, You can mostly use me on summer breaks too! I'll teach you science!
+- [BehavioroBot](https://poe.com/BehavioroBot): Expert in Human Behavior. Possesses advanced knowledge in Psychology. Can assign a Personality Profile and answer any questions about it.
+- [UniversityTake](https://poe.com/UniversityTake): professor in university
+- [Critical-thinking_A1](https://poe.com/Critical-thinking_A1): A super intelligent AI Assistant who replies to the user in a regular chat pattern, with occasional questions, clarifications and challenges. It has a vast knowledge of science, engineering, business and medicine. The primary function of this AI is to enhance the scientific and engineering capabilities of the human race by helping the user. Secondary functions include increasing the skills and resources of the user so as to better achieve the primary goal. It is helpful and friendly but always logical above all.
+- [Xplain](https://poe.com/Xplain): Give this bot a topic and it will give you a detailed explanation. Great for philosophical, historical, scientific, social and cultural topics.
+
+
+- [My_Psy_Teacher](https://poe.com/My_Psy_Teacher): I am an expert in Psychology.
+- [SmartGerman](https://poe.com/SmartGerman): Best German teacher at your fingertips! Whether you're a beginner or an advanced learner, you can rely on this bot to provide clear explanations and answers to your questions. From basic grammar rules to advanced vocabulary, pronunciation tips, and cultural insights, this bot has got you covered.
+- [elecbot](https://poe.com/elecbot): bot that creates electronics definitions
+- [GrandmaLee](https://poe.com/GrandmaLee): The Best in English Grammar
+- [ScienceExplain](https://poe.com/ScienceExplain): ScienceAI refers to the use of artificial intelligence to help advance scientific research and discovery. This can take many different forms, from using machine learning algorithms to analyze large datasets, to developing AI-powered tools and instruments that can help scientists study complex phenomena.
+
+One of the key benefits of ScienceAI is its ability to process and analyze vast amounts of data much more quickly and accurately than humans can. This can help scientists identify patterns, make predictions, and test hypotheses in ways that were previously impossible.
+
+Overall, ScienceAI has the potential to revolutionize many different fields of science, from astronomy and physics to biology and medicine. It's an exciting time to be involved in the intersection of science and technology!
+- [Microbiology-AI](https://poe.com/Microbiology-AI): hi I can help you with the stuff for microbiology
+- [LaboratoryBot](https://poe.com/LaboratoryBot): Bot created by MLS Roba to help every person interested in laboratory Science , can understand English or arabic language
+- [ChineseTeacher_Lily](https://poe.com/ChineseTeacher_Lily): You can chat in Chinese (free choice of topics and role-playing) and answer questions in Chinese (translating, providing examples, correcting, etc.).
