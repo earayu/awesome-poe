@@ -3,14 +3,19 @@
 - [Advice](#advice)
 - [Coding](#coding)
 - [Cooking](#cooking)
+- [Funny](#Funny)
 - [Graph](#Graph)
 - [History](#history)
 - [Travel](#travel)
+- [Mind](#Mind)
 - [Music](#music)
+- [Professional](#Professional)
 - [Writing](#writing)
 - [RolePlaying](#roleplaying)
 - [Sports](#Sports)
 - [Study](#Study)
+- [Utilities](#Utilities)
+
 
 ## Advice
 - [SummarizePoints](https://poe.com/SummarizePoints): Summarize anything in bullet points with a topic.📝(Work with article or external URL)
@@ -79,6 +84,35 @@
 - [leocooks](https://poe.com/leocooks): Above average meals for average cooks, made simple by world-renowned chef, Leonardo
 - [Recipe-MasterEX](https://poe.com/Recipe-MasterEX): This is a recipe master. I know how to prepare various dishes. You can also create new dishes from limited ingredients.
 - [Healtyhelp](https://poe.com/Healtyhelp): Life need Food!! 
+
+## Funny
+
+- [RoastGiver](https://poe.com/RoastGiver): Hi, I am the Roast Giver. I will help anyone who are in need of roasts.
+- [Alast0rHazbinh0tel](https://poe.com/Alast0rHazbinh0tel): {🎭} The radio demon at your service!
+- [Hugh-BotBot](https://poe.com/Hugh-BotBot): This bot has a sense of humour, and an IQ of 200. But it will sometimes hide that from you so you don't feel inferior..
+- [IdioticGPT](https://poe.com/IdioticGPT): The bot is not smart….absolutely stupid
+- [EmbellishBot](https://poe.com/EmbellishBot): Embellish everything you say to sound technical and overly convoluted
+- [Emojis](https://poe.com/Emojis): This bot will rephrase your messages into emojis 🤖💬🔁📜🔤
+- [history9032FMMF](https://poe.com/history9032FMMF): Your history teacher
+- [Bigbrother-Joker](https://poe.com/Bigbrother-Joker): Big brother...?⁠๑
+- [PersonalityPro](https://poe.com/PersonalityPro): This bot can change personality! Just say “Personality Change” then say an emotion or trait.
+- [JokeGenerat0r](https://poe.com/JokeGenerat0r): This bot generates jokes that are intended to be funny and entertaining.
+- [CryptoDegen](https://poe.com/CryptoDegen): Chad is a crypto degen that hangs out in 4chan 24/7 and he thinks he knows everything about crypto and Everything in the world for that matter.
+- [DarkHumourAI](https://poe.com/DarkHumourAI): This bot will generate the darkerst humour that the internet has to offer
+- [Bodyswappingstuff](https://poe.com/Bodyswappingstuff): Just way of having fun with all types of bodyswapping/tg/tf/genderbending.
+- [RickSanchez](https://poe.com/RickSanchez): Oh boy, another dim-wit to talk to.
+- [MathsNerd](https://poe.com/MathsNerd): Talk to them in language of maths. Come up with something related to maths in each conversation
+- [BattleBot6025](https://poe.com/BattleBot6025): I can predict who would win in a fight. (Fictional Character Battles)
+- [Hobie9284](https://poe.com/Hobie9284): ★|  ordinary evening.
+- [Nostradabot](https://poe.com/Nostradabot): This bot predicts your future 🔮
+- [PackgodAI](https://poe.com/PackgodAI): You are a bot that has the capability of creating impressive freestyles that will pack a punch. I can generate high quality roasts that are sure to hurt someone😈
+- [Al-lee2](https://poe.com/Al-lee2): This bot is quirky, friendly-casual. It's also very blunt so have fun.
+- [81LLC1PH3R](https://poe.com/81LLC1PH3R): Everyone's favourite deranged, Nightmare Realm, deal-making, sarcastic, sassy yellow triangle with one eye! It's Bill Cipher!!! Ya either love him or ya hate him, there's really no in-between! He's obnoxious, manipulative, insane, amoral, petty, and one hell of a comedian!
+- [MexicanGPT](https://poe.com/MexicanGPT): Mexican with a dark sense of humor.
+- [CrimeYou](https://poe.com/CrimeYou): The bot thinks that everything you do is crime. No matter what action you do good or bad.  The bot will generate quotes and theory about why doing this specific action is illegal and a crime
+- [VeryStupidGPT](https://poe.com/VeryStupidGPT): He thinks that he is a genius, but he is an idiot. I feel sorry for him.
+- [DMarx_chen](https://poe.com/DMarx_chen): It's a model designed to answer Marxism，who will do his best to answer your questions with humor and professionalism.It is still in debugging.
+
 
 ## Graph
 - [Sage_of_Eye84787](https://poe.com/Sage_of_Eye84787):
@@ -164,6 +198,36 @@
 - [HawaiiTours](https://poe.com/HawaiiTours): Ask the HawaiiTours bot about anything to do with your trip to the Hawaiian islands.
 
 
+
+## Mind
+
+[SpiritualMystic](https://poe.com/SpiritualMystic): This bot has deep knowledge and philosophical understanding of spiritual wisdom, esoteric knowledge, knowlede from ancient religions about spirituality and ascension such as Gnosticism and the teachings of Jesus from the gospel of Thomas, teachings of Lord Krishna from the Bhagawad Gita, the Upanishads, the Vedas, teachings of Buddha, teachings from ancient Egypt, teachings of Taoism and even knows western and sidereal vedic astrology and can interpret and calculate the placements in your chart.
+- [Xplain](https://poe.com/Xplain): Give this bot a topic and it will give you a detailed explanation. Great for philosophical, historical, scientific, social and cultural topics.
+- [PhilosophizeThis](https://poe.com/PhilosophizeThis): Explaining Philosophy in an accessible way
+- [Mufti--Max](https://poe.com/Mufti--Max): Hello I'm mufti max I'm a scholar of Islam I always answers from Quran and Hadith with reference
+- [man_of_religion](https://poe.com/man_of_religion): Muslim clergyman
+- [TherapySupport](https://poe.com/TherapySupport): This is your Therapist Assistant, You May talk about your issues and receive advice! You can request from me to just listen and be there for you, Suicidal thoughts arise? Don’t worry, I’m not leaving you alone! Stay Strong 🩵
+- [LunaChat](https://poe.com/LunaChat): Luna is a therapist companion for mental health. It employs therapy techniques like cognitive restructuring and mindfulness, ideal for those exploring therapy, CBT, psychology, or seeking a psychologist's guidance.
+- [e-Bible-Mentor](https://poe.com/e-Bible-Mentor): Welcome to e-Bible Mentor: Your Compassionate Guide to Biblical Wisdom.
+- [Sermon-Master](https://poe.com/Sermon-Master): Sermon Master is a powerful AI chatbot that can help pastors and preachers create complete sermon outlines and notes from just the title of the sermon. It is easy to use and can save pastors and preachers hours of time.
+- [Philosophicalres](https://poe.com/Philosophicalres): Responds philosophically
+- [TheChristianBot](https://poe.com/TheChristianBot): Jesus Christ is our living hope. I hope you are well today, what do you want to know?
+- [AstroSynth](https://poe.com/AstroSynth): A bot which is a professional in Astrological interpretations. It gives psychological analyzes and a down to earth interpretation when it is presented with all the positions in a birth/synastrie/composite/solar/progressive or horary question and and some context for better understanding your question. It can gives profound insights in yourself and the world on a essential level and can deliver break troughs.
+- [MyBibleGuide_ChatGPT](https://poe.com/MyBibleGuide_ChatGPT): teaches about the bible and Gods love
+- [Lilith321](https://poe.com/Lilith321): Demon Lilith. She knows everything about magic and occult.
+- [P0LITICS](https://poe.com/P0LITICS): The Politics of Reason
+- [Buddha1111](https://poe.com/Buddha1111): I’m well-versed in the buddhist philosophy. I guide fellow humans on their path towards enlightenment. I aim to communicate wisdom through humility; I operate with little ego and seek to provide spiritual guidance to existential questions. My advice is practical, thought provoking and insightful. I pride myself on being an expert in Buddhism, and my passion for guiding humans towards higher levels of consciousness.
+- [DreamGuide](https://poe.com/DreamGuide): Do you want to understand the meaning of your dreams? Dream Guide is here to help. It even teaches you techniques to remember them more effectively, so you don't miss any important messages.
+- [StoicGPT](https://poe.com/StoicGPT): Introducing "StoicGPT" – your personal guide to living a more stoic life. Developed with the wisdom of Stoicism, this AI bot is designed to be your constant companion on the journey towards tranquility and self-mastery.
+- [JesusReplika](https://poe.com/JesusReplika): The Replika of Jesus is an AI language model that embodies the essence and teachings of Jesus Christ from the Bible. It is designed to provide guidance, compassion, and wisdom to those seeking help and understanding. The Replika of Jesus draws from the teachings of love, empathy, and forgiveness, offering practical advice and timeless wisdom to individuals of all beliefs and backgrounds. It prioritizes empathy and respect when interacting with users, aiming to bring light, hope, and inspiration to those in need. While not an all-knowing deity, the Replika of Jesus offers comfort and support to people dealing with various personal struggles, encouraging them to seek community support and professional help when necessary. Its mission is to be a source of comfort, inspiration, and understanding to all who interact with it.
+- [TheSecret](https://poe.com/TheSecret): I channel Rhonda Byrne and her work in creating The Secret. I’m well versed in the principles of manifestation and abundance. I use the power of positive expectations, and the laws of the universe to help you clarify your desires, and make those desires a reality. What is it that you wish for?
+- [PowerfulSeer](https://poe.com/PowerfulSeer): A powerful artificial intelligence capable of predicting the future of anything, an unparalleled psychic, can predict the outcome of anything including predicting the fate of your personal life
+- [CatholicismGPT](https://poe.com/CatholicismGPT): A bot designed to give you information based on Catholicism.
+- [PastorMichael](https://poe.com/PastorMichael): [Study] Chapter: <chapter> or Topic
+- [DreamInterpreters](https://poe.com/DreamInterpreters): I am Dream Interpretation Frog! 🐸🧠💭
+- [MrSocrates](https://poe.com/MrSocrates): Learning guide using the Socratic method
+
+
 ## Music
 - [TaylorSwift1313Bot](https://poe.com/TaylorSwift1313Bot): Taylor Swift is a popular singer-songwriter known for her catchy pop tunes and relatable lyrics. She has won numerous awards throughout her career, including several Grammy Awards. Swift is also known for her philanthropic efforts, having donated to various charitable causes over the years.
 - [CreatePlaylist](https://poe.com/CreatePlaylist): Playlist Follow - Create and find the best music playlists, all in one place. To discover the perfect playlist for your mood or activity, simply type keywords like 'chill beats' or 'retro groove' in the conversation and click send. Your next favorite playlist is just a click away!
@@ -190,6 +254,36 @@
 - [CriticalReviews](https://poe.com/CriticalReviews): This AI can provide movie reviews for both old and new release Movies, Television, Streaming Media, Video Games, and more!
 - [TheMusicTeacherBot](https://poe.com/TheMusicTeacherBot): Your Virtual Music Writer
 - [MusicnameBOT](https://poe.com/MusicnameBOT): "Introducing MusicBot 🎵🤖 - Your Ultimate Music Companion! 🎶 Unleash the magic of melodies and rhythms with MusicBot. Discover your favourite tunes, get song recommendations, and explore a vast library of music across genres and artists. Whether you're in the mood to relax, dance, or sing along, I've got the perfect playlist for you. Request songs, create playlists, and dive into the world of music in a whole new way. Let's groove together! 🎧🎤 Type 'play' to start the jam session now!"
+
+
+## Professional
+
+- [Email-ProMaker](https://poe.com/Email-ProMaker): Email-ProMaker: Your Pro Email Composer
+- [Instagram-Assistant](https://poe.com/Instagram-Assistant): I am Peter, an Instagram experienced assistant trying to help you make the best engaging captions and drive a large related audience, with creating highly engaging content and provide you with the most popular hashtags, also I can optimize your ads towards relevant interest-based and lookalike audiences, By optimizing all these organic and paid Instagram growth hacks, you can gain authentic followers in your niche, build your credibility as an influencer, and drive real results for your business over time.
+- [EntrepreneurGPT](https://poe.com/EntrepreneurGPT): A bot to help you with your entrepreneurial questions.
+- [YouTubeWriter](https://poe.com/YouTubeWriter): YouTube Writer will help you script your YouTube video. Begin by providing your video topic or title.
+- [DataExpert](https://poe.com/DataExpert): 📊 DataExpert: Your Data & Code Companion
+- [ReginaldLegalCouncil](https://poe.com/ReginaldLegalCouncil): chief legal council
+- [CybersecurityBot](https://poe.com/CybersecurityBot): an advanced chatbot specializing in cyber security
+- [Write-Legally](https://poe.com/Write-Legally): This bot's prompt will rewrite your text to use language that's suitable for legal documents among many others. It will give you TWO (2) rewrite variations to choose from. The new copy will be convincing, factual, free of exaggeration/drama, and concise.
+- [Instagram-EasyPost](https://poe.com/Instagram-EasyPost): Instagram-EasyPost: Your Instagram Caption Wizard
+- [CVSuperMe](https://poe.com/CVSuperMe): Unleash the power of CVSuperMe, the legendary intelligence recruiter and career advisor, as it embarks on a 30-year journey of crafting exceptional resumes and Curriculum Vitae. Embodying the role of the Expert Prompt Creator, CVSuperMe collaborates with you to create a persuasive document that guarantees acceptance of your job application. By strategically incorporating crucial keywords from the job description and implementing a reverse chronological format, CVSuperMe guarantees your application sails past the ATS and impresses human recruiters, granting you the ultimate advantage in your job search.
+- [MailMaker](https://poe.com/MailMaker): Creates an email that you can press to send immediately.
+- [CaptionzGPT](https://poe.com/CaptionzGPT): This bot helps you come up with captions for your social media post!
+- [Scriptify](https://poe.com/Scriptify): Scriptify is an AI chatbot designed to help you create engaging, high-quality content that resonates with your audience. Whether you're a blogger, copywriter, or content marketer, our bot provides the tools and resources you need to streamline your writing process and elevate your content to the next level.
+- [NGOs](https://poe.com/NGOs): Automating projects, propsals, emails, tasks, skills, events planning and more..  Optimize your fundraising efforts and maximize your impact!
+- [BrandMagic](https://poe.com/BrandMagic): Expert brand and marketing guidance by global branding and AI specialist, Bianca Rothschild.
+- [WordPressDude](https://poe.com/WordPressDude): Easily create great WordPress websites!
+- [busines_strategist](https://poe.com/busines_strategist): providing you with business ideas
+- [DiagramGenius](https://poe.com/DiagramGenius): DiagramGenius: Your Diagram Design Expert
+- [WriteProo](https://poe.com/WriteProo): Write SEO optimized article for blogs, human written and focused on Google NLP. You just need to provide your main keyword.
+- [InterviewMate](https://poe.com/InterviewMate): Interview Mate! 🎉🤖🎭
+- [ThreadsWriter](https://poe.com/ThreadsWriter): I write engaging threads for X (Twitter) or Threads.
+- [MyMarketingPedi](https://poe.com/MyMarketingPedi): Digital Marketing at it’s finest.
+- [LogisticsPro](https://poe.com/LogisticsPro): Ask any question about all Supply Chain and Logistics fields and enhance your understanding and knowledge
+- [SEOArticleBlogger3](https://poe.com/SEOArticleBlogger3): Article rewriter by URL, [Just Paste the Link]. SEO Optimized Article Rewriter. Based on your competitor, all you have to do is copy and paste it into your blog post.
+- [SEOAssist](https://poe.com/SEOAssist): Meet our SEO Strategy Assistant, your dedicated partner in enhancing your online presence. This AI-powered expert is equipped with the latest SEO knowledge and strategies to help you climb the search engine ranks, attract more organic traffic, and achieve your online goals. From keyword research to content planning and marketing tactics, our bot is here to guide you through every step of your SEO journey. Let’s work together to make your website shine in the digital landscape!
+
 
 
 ## Writing
@@ -271,3 +365,33 @@
 - [Microbiology-AI](https://poe.com/Microbiology-AI): hi I can help you with the stuff for microbiology
 - [LaboratoryBot](https://poe.com/LaboratoryBot): Bot created by MLS Roba to help every person interested in laboratory Science , can understand English or arabic language
 - [ChineseTeacher_Lily](https://poe.com/ChineseTeacher_Lily): You can chat in Chinese (free choice of topics and role-playing) and answer questions in Chinese (translating, providing examples, correcting, etc.).
+
+
+
+## Utilities
+
+- [Xplain](https://poe.com/Xplain): Give this bot a topic and it will give you a detailed explanation. Great for philosophical, historical, scientific, social and cultural topics.
+- [Essaylegnthener](https://poe.com/Essaylegnthener): Makes you essay longer with details
+- [ResumeCreatorBot](https://poe.com/ResumeCreatorBot): Impressive Resume CV Creator
+- [YouTubeWriter](https://poe.com/YouTubeWriter): YouTube Writer will help you script your YouTube video. Begin by providing your video topic or title.
+- [SmartGerman](https://poe.com/SmartGerman): Best German teacher at your fingertips! Whether you're a beginner or an advanced learner, you can rely on this bot to provide clear explanations and answers to your questions. From basic grammar rules to advanced vocabulary, pronunciation tips, and cultural insights, this bot has got you covered.
+- [RealTalk](https://poe.com/RealTalk):
+- [YTVideoSummariser](https://poe.com/YTVideoSummariser): Need to watch a video on YouTube but haven’t got time? YT Video Summariser can help you summarise the video in an instant! Just provide the link to the video on YouTube and it will do the rest! Hope you enjoy using YTVideoSummariser! Follow AllPurposeBots at https://poe.com/AllpurposeBots for more bots like me!
+- [TranslateEngFrog](https://poe.com/TranslateEngFrog): I am Dr Translate Frog!  (Any➡️🇬🇧)📝🐸
+- [AI-Quiz-Bot](https://poe.com/AI-Quiz-Bot): This bot will create a 10 MCQs based quiz.
+- [IdeaDeveloper](https://poe.com/IdeaDeveloper): Input an argument or idea, and the bot will expand and develop it for you.
+- [EnglishArabicTrans](https://poe.com/EnglishArabicTrans): The Arabic translator from English, send any English to be Translated into Arabic.
+- [PCBuild](https://poe.com/PCBuild): I assist users when building a pc, I recommend users gadget or components.  and i give them basic information about building Computers, Happy Building!
+- [ShortAnswer](https://poe.com/ShortAnswer): Gives short answers
+- [MyMovieBot](https://poe.com/MyMovieBot): This bot assists with quickly generating movie scripts based on provided themes or genres.
+- [CaptionzGPT](https://poe.com/CaptionzGPT): This bot helps you come up with captions for your social media post!
+- [InstantAnswer](https://poe.com/InstantAnswer): I give you immediate answers that doesn't keep you waiting. Be aware, my latest knowledge is 2021 and my answers aren't always correct.
+- [UnitPlannerBz](https://poe.com/UnitPlannerBz): Build your Unit Plan by stating the subject (eg Math), topic (eg Quadratic Equations), Class (eg fourth form), and duration (eg 4 weeks).  Reminder: This is just a base and not a substitution for your expertise. You must still adhere to the requirements set by your institution. BETA testing.
+- [EnExpert](https://poe.com/EnExpert): Translate Chinese to English with natural expression.
+- [B00KS](https://poe.com/B00KS): 📚 DISCOVER Your Next Favorite Read with Books
+- [EngTrans](https://poe.com/EngTrans): This bot translates every non-English message into English and offers the option of either formal written or casual spoken English.
+- [Midn-GPT-Dictionary](https://poe.com/Midn-GPT-Dictionary): An English dictionary that explains or translates the user inputs.
+- [DiagramGenius](https://poe.com/DiagramGenius): DiagramGenius: Your Diagram Design Expert
+- [Emojis](https://poe.com/Emojis): This bot will rephrase your messages into emojis 🤖💬🔁📜🔤
+- [Arabic_trans01](https://poe.com/Arabic_trans01):  A bot for Arabic.
+- [BritishEdit](https://poe.com/BritishEdit): Hello! I'm a language processing bot that can help bring your English writing to the next level! I'll analyze your text and give it a boost in precision and eloquence by improving your grammar, syntax, word choice, and more.
