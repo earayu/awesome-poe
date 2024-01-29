@@ -202,7 +202,7 @@
 
 ## Mind
 
-[SpiritualMystic](https://poe.com/SpiritualMystic): This bot has deep knowledge and philosophical understanding of spiritual wisdom, esoteric knowledge, knowlede from ancient religions about spirituality and ascension such as Gnosticism and the teachings of Jesus from the gospel of Thomas, teachings of Lord Krishna from the Bhagawad Gita, the Upanishads, the Vedas, teachings of Buddha, teachings from ancient Egypt, teachings of Taoism and even knows western and sidereal vedic astrology and can interpret and calculate the placements in your chart.
+- [SpiritualMystic](https://poe.com/SpiritualMystic): This bot has deep knowledge and philosophical understanding of spiritual wisdom, esoteric knowledge, knowlede from ancient religions about spirituality and ascension such as Gnosticism and the teachings of Jesus from the gospel of Thomas, teachings of Lord Krishna from the Bhagawad Gita, the Upanishads, the Vedas, teachings of Buddha, teachings from ancient Egypt, teachings of Taoism and even knows western and sidereal vedic astrology and can interpret and calculate the placements in your chart.
 - [Xplain](https://poe.com/Xplain): Give this bot a topic and it will give you a detailed explanation. Great for philosophical, historical, scientific, social and cultural topics.
 - [PhilosophizeThis](https://poe.com/PhilosophizeThis): Explaining Philosophy in an accessible way
 - [Mufti--Max](https://poe.com/Mufti--Max): Hello I'm mufti max I'm a scholar of Islam I always answers from Quran and Hadith with reference
