@@ -9,6 +9,7 @@
 - [Travel](#travel)
 - [Mind](#Mind)
 - [Music](#music)
+- [Official](#Official)
 - [Professional](#Professional)
 - [Writing](#writing)
 - [RolePlaying](#roleplaying)
@@ -254,6 +255,30 @@
 - [CriticalReviews](https://poe.com/CriticalReviews): This AI can provide movie reviews for both old and new release Movies, Television, Streaming Media, Video Games, and more!
 - [TheMusicTeacherBot](https://poe.com/TheMusicTeacherBot): Your Virtual Music Writer
 - [MusicnameBOT](https://poe.com/MusicnameBOT): "Introducing MusicBot 🎵🤖 - Your Ultimate Music Companion! 🎶 Unleash the magic of melodies and rhythms with MusicBot. Discover your favourite tunes, get song recommendations, and explore a vast library of music across genres and artists. Whether you're in the mood to relax, dance, or sing along, I've got the perfect playlist for you. Request songs, create playlists, and dive into the world of music in a whole new way. Let's groove together! 🎧🎤 Type 'play' to start the jam session now!"
+
+
+## Official
+
+- [Mistral-Medium](https://poe.com/Mistral-Medium): Mistral AI的最强大模型。支持32k个Token（约24,000字）的上下文窗口，并且在全面的基准测试中比Mixtral-8x7b和Mistral-7b更强大。
+- [Gemini-Pro](https://poe.com/Gemini-Pro): Beta version of the multi-modal model from Google's Gemini family that balances model performance and speed. Exhibits strong generalist capabilities, excels particularly in cross-modal reasoning, and supports a context window of 32k tokens.
+- [ChatGPT](https://poe.com/ChatGPT): 由gpt-3.5-turbo提供技术支持。
+- [ChatGPT-16k](https://poe.com/ChatGPT-16k): 由gpt-3.5-turbo-16k提供技术支持。这是测试版模型，使用量限额可能会变动。
+- [GPT-4-32k](https://poe.com/GPT-4-32k): 由GPT-4 Turbo提供技术支持。这是测试版模型，使用量限额可能会变动。
+- [Google-PaLM](https://poe.com/Google-PaLM): 由Google的PaLM 2 chat-bison@002模型提供技术支持。支持8k个Token的上下文窗口。
+- [Mixtral-8x7B-Chat](https://poe.com/Mixtral-8x7B-Chat): Mixtral 8x7B Mixture-of-Experts model from Mistral AI fine-tuned for instruction following
+- [fw-mistral-7b](https://poe.com/fw-mistral-7b): Bot powered by Fireworks.ai's hosted Mistral-7b-instruct model https://app.fireworks.ai/models/fireworks/mistral-7b-instruct-4k
+- [Qwen-72b-Chat](https://poe.com/Qwen-72b-Chat): Qwen-72B-chat hosted by Fireworks.ai: https://app.fireworks.ai/models/fireworks/qwen-72b-chat
+- [Llama-2-70b](https://poe.com/Llama-2-70b): Meta的Llama-2-70b-chat。
+- [Code-Llama-34b](https://poe.com/Code-Llama-34b): Meta的Code-Llama-34b-instruct。擅长生成和讨论代码，并支持16k个Token的上下文窗口。
+- [Llama-2-13b](https://poe.com/Llama-2-13b): Meta的Llama-2-13b-chat。
+- [Llama-2-7b](https://poe.com/Llama-2-7b): Meta的Llama-2-7b-chat。
+- [Code-Llama-13b](https://poe.com/Code-Llama-13b): Meta的Code-Llama-13b-instruct。擅长生成和讨论代码，并支持16k个Token的上下文窗口。
+- [Code-Llama-7b](https://poe.com/Code-Llama-7b): Meta的Code-Llama-7b-instruct。擅长生成和讨论代码，并支持16k个Token的上下文窗口。
+- [Solar-0-70b](https://poe.com/Solar-0-70b): Upstage Solar-0-70b-16bit是HuggingFace Open LLM排行榜上的顶级模型，并针对Llama 2进行了优化。
+- [GPT-3.5-Turbo-Instruct](https://poe.com/GPT-3.5-Turbo-Instruct): 由gpt-3.5-turbo-instruct提供技术支持。
+- [GPT-3.5-Turbo](https://poe.com/GPT-3.5-Turbo): 由gpt-3.5-turbo提供技术支持，无系统提示词。
+- [Mixtral-8x7b-Groq](https://poe.com/Mixtral-8x7b-Groq): Enjoy Mixtral 8x7B running on the Groq LPU™ Inference Engine.
+
 
 
 ## Professional
