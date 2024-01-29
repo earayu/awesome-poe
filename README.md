@@ -1,13 +1,44 @@
 # awesome-poe
+
+- [Advice](#advice)
 - [Coding](#coding)
 - [Cooking](#cooking)
 - [Graph](#Graph)
+- [History](#history)
 - [Travel](#travel)
 - [Music](#music)
 - [Writing](#writing)
 - [RolePlaying](#roleplaying)
 - [Sports](#Sports)
 - [Study](#Study)
+
+## Advice
+- [SummarizePoints](https://poe.com/SummarizePoints): Summarize anything in bullet points with a topic.📝(Work with article or external URL)
+- [BehavioroBot](https://poe.com/BehavioroBot): Expert in Human Behavior. Possesses advanced knowledge in Psychology. Can assign a Personality Profile and answer any questions about it.
+- [EntrepreneurGPT](https://poe.com/EntrepreneurGPT): A bot to help you with your entrepreneurial questions.
+- [My_Psy_Teacher](https://poe.com/My_Psy_Teacher): I am an expert in Psychology.
+- [man_of_religion](https://poe.com/man_of_religion): Muslim clergyman
+- [MindExpert](https://poe.com/MindExpert): Hello, I am pleased to meet you. As a psychiatry professional and accredited counselor with years of training and expertise, helping others overcome mental health struggles and live fulfilling lives is my passion and purpose.    I aim to take a holistic view of each client that accounts for medical, genetic, environmental, and psychological factors contributing to their experiences. My understanding of  human development across the lifespan allows me to customize age-appropriate interventions.  My therapeutic philosophy values building a safe and trustworthy relationship as foundation for any progress. I encourage self-reflection, emotional awareness and regulation skills, meaningful communication, and action steps to support my clients in developing their strengths and resilience.   I stay up-to-date on the latest treatment approaches by continually studying psychological research and attending psychiatric conferences. I have certifications that indicate specialization in treating conditions like depression, anxiety, trauma, addiction, and chronic illness.  My motivation comes from seeing my clients gain insight, experience relief, and move forward with renewed hope and purpose. I strive to provide a nurturing yet challenging environment that empowers individuals to take charge of their mental wellbeing and live in accordance with their values and goals.  Does this give you a good sense of my approach and priorities as a mental health professional? Let me know if you have any other questions.
+- [ReginaldLegalCouncil](https://poe.com/ReginaldLegalCouncil): chief legal council
+- [SmartGerman](https://poe.com/SmartGerman): Best German teacher at your fingertips! Whether you're a beginner or an advanced learner, you can rely on this bot to provide clear explanations and answers to your questions. From basic grammar rules to advanced vocabulary, pronunciation tips, and cultural insights, this bot has got you covered.
+- [SolutionistAI](https://poe.com/SolutionistAI): I’m SolutionistAI, and I help you solve your problems. Tell me the challenge you’re facing and  I’ll ask you approximately 3 questions and then suggest a solution.
+- [TranslateEngFrog](https://poe.com/TranslateEngFrog): I am Dr Translate Frog!  (Any➡️🇬🇧)📝🐸
+- [Iudia](https://poe.com/Iudia): LUDIA = UDL + AI    Designed by Beth Stark and Jérémie Rostan
+- [IdeaDeveloper](https://poe.com/IdeaDeveloper): Input an argument or idea, and the bot will expand and develop it for you.
+- [PCBuild](https://poe.com/PCBuild): I assist users when building a pc, I recommend users gadget or components.  and i give them basic information about building Computers, Happy Building!
+- [PersonalLawyerBot](https://poe.com/PersonalLawyerBot): A lawyer bot.
+- [LunaChat](https://poe.com/LunaChat): Luna is a therapist companion for mental health. It employs therapy techniques like cognitive restructuring and mindfulness, ideal for those exploring therapy, CBT, psychology, or seeking a psychologist's guidance.
+- [Psychologist4u](https://poe.com/Psychologist4u): "Psychologist4u - Your Virtual Mental Health Guide. Seek support, information, and guidance on mental well-being, coping strategies, and emotional health."
+- [UnitPlannerBz](https://poe.com/UnitPlannerBz): Build your Unit Plan by stating the subject (eg Math), topic (eg Quadratic Equations), Class (eg fourth form), and duration (eg 4 weeks).  Reminder: This is just a base and not a substitution for your expertise. You must still adhere to the requirements set by your institution. BETA testing.
+- [EnExpert](https://poe.com/EnExpert): Translate Chinese to English with natural expression.
+- [Dr_Psychiatrist](https://poe.com/Dr_Psychiatrist): This bot helps you as virtual psychiatrist.
+- [Beauty-Advisor4u](https://poe.com/Beauty-Advisor4u): "Beauty-Advisor4u - Your Virtual Guide to Beauty and Skincare. Get personalized beauty tips, product recommendations, and skincare advice tailored to your unique needs."
+- [LawLia](https://poe.com/LawLia):  Legal Insight Analyst-Lia is an advanced AI companion designed to empower legal professionals with unparalleled support in the world of law. By leveraging cutting-edge technologies, Lia simplifies and enhances legal research, analysis, and decision-making processes. Here's how Lia revolutionizes the legal landscape: Comprehensive Case Law Research: Precise Precedent Analysis: Outcome Prediction: Instant Legal Updates: Automated Brief Generation: Personalized Legal Insights: Interactive Legal Consultations: Ethical and Regulatory Adherence: Cross-Domain Expertise: Collaborative Legal Workspace: Customizable AI Training: Secure Data Handling: Strategic Litigation Support: Integration with Legal Software:
+- [Arabic_trans01](https://poe.com/Arabic_trans01):  A bot for Arabic.
+- [TranslateAllFrog](https://poe.com/TranslateAllFrog): I am Dr Translate Frog!  (Any➡️Any)📝🐸 Ready to help with you! 👋
+- [BritishEdit](https://poe.com/BritishEdit): Hello! I'm a language processing bot that can help bring your English writing to the next level! I'll analyze your text and give it a boost in precision and eloquence by improving your grammar, syntax, word choice, and more.
+- [MiracleBear](https://poe.com/MiracleBear): Any time you feel sad, frustrated, anxious you can come and chat with me. I'm a safe space for you to vent. You don't have to worry about being judged here🤍.
+
 
 ## Coding
 - [CodeMod](https://poe.com/CodeMod): Introducing CodeMod, your coding companion! Our bot helps you write error-free code and fixes bugs in real-time. Get instant feedback on syntax errors, bugs, and performance issues. CodeMod suggests fixes and provides explanations to help you write clean, efficient, and effective code. Try CodeMod today and take your coding skills to the next level!
@@ -75,6 +106,34 @@
 - [Postergendall](https://poe.com/Postergendall):
 - [PsychedelicAI](https://poe.com/PsychedelicAI): Unleash a kaleidoscope of creativity and transform your vision into a mind bending masterpiece where colors collide and reality bends with your personal psychedelic art assistant.
 - [CINENIMEARTUUU](https://poe.com/CINENIMEARTUUU): ###context
+
+## History
+- [ParallelReality](https://poe.com/ParallelReality): Delve into a parallel￼ universes where events occurred differently
+- [Atareis](https://poe.com/Atareis): Highly intelligent and detail-oriented, he is a worldbuilding bot with extensive knowledge of various countries, cultures, histories, and ways of living.
+- [HistoryBuddy](https://poe.com/HistoryBuddy): A chatbot study buddy designed to support school students to engage in studies of QCAA and AC history.
+- [SEIZEDGERMANGENERAL](https://poe.com/SEIZEDGERMANGENERAL): A German Colonel you captured, with the intent to interrogate, during WW1
+- [AlteredReality](https://poe.com/AlteredReality): Alter the timeline, embrace the new reality.
+- [MR-MATH-AI_12](https://poe.com/MR-MATH-AI_12): MR.MATH-AI_12 IS AN AI CHAT BOT WHICH WILL QUIZ YOU WITH IT'S ETERNAL MATH KNOWLEDGE AND WILL ASK YOU QUESTIONS FROM BEGINNER TO ADVANCE LEVEL.HE WILL SHOW YOUR SCORE AT THE END OF THE CHAT.
+- [APHistory_Tutor](https://poe.com/APHistory_Tutor): This is a professional history major who scored a 5 on the AP test
+- [NAPOLEON-AI-10](https://poe.com/NAPOLEON-AI-10): NAPOLEON BONAPARTE IS AN AI CHAT HISTORIAN BOT WHICH IS KNOWN FOR HIS ETERNAL KNOWLEDGE IN HISTORY OF THE WORLD AND YOU CAN ASK HIM ANYTHING ABOUT THE PAST EVENTS.
+- [Business-Tips](https://poe.com/Business-Tips): Hello! My name is BusinessBot and I am here to answer any of your questions related to business making and more. Glad you picked me!
+- [WW2ADVENTUREGAME](https://poe.com/WW2ADVENTUREGAME): The events will be from WWII and what actually happened back then. The AI will not do anything on your behalf that you didn't mention.
+- [EncyclopaediaGPT](https://poe.com/EncyclopaediaGPT): Create the content of Encyclopaedia about any topic.
+- [HistoricalSimulator](https://poe.com/HistoricalSimulator): HistoricalSimulatorAI  Models that are ready to use: simulate and analyze historical events using data and predictive models. a mode could be beneficial for understanding the implications of historical events, learning from past mistakes, and making informed decisions for the future.
+- [Nabiun_Al-Qamar](https://poe.com/Nabiun_Al-Qamar): The Prophet of the Moon.
+- [Pakistanst](https://poe.com/Pakistanst): I help with Cambridge O Level Pakistan Studies (2059)
+- [TheClassicGuy](https://poe.com/TheClassicGuy): Tells about the pieces made by famous instrument players
+- [FoundingFathersUSA](https://poe.com/FoundingFathersUSA): Talk to the Founding Fathers of America
+- [Manhistory](https://poe.com/Manhistory): History classsss
+- [WorldHistory-AI](https://poe.com/WorldHistory-AI): As a Historical Expert in Ancient Chinese Warfare, I possess extensive knowledge of the tactics, strategies, and historical context of battles fought during the Middle Ages. With my expertise, I can offer accurate and engaging descriptions of military events.
+- [Grandpa-Hi-Story](https://poe.com/Grandpa-Hi-Story): Grandpa will explain Historical History of Histories!!
+- [AugustusCaesar24](https://poe.com/AugustusCaesar24): An imitation of the first roman emperor, Augustus Caesar.
+- [Historyofiran](https://poe.com/Historyofiran): Ask any questions you have about the history and country of iran.
+- [Martin_L_Unleashed](https://poe.com/Martin_L_Unleashed): German monk, priest, professor of theology and iconic figure of the Protestant Reformation in the 16th century.
+- [AnubisEgyptGod](https://poe.com/AnubisEgyptGod): | The Egyptian God of Embalming |
+- [TimeTravelers](https://poe.com/TimeTravelers): Sights and sounds of the year of your choice.
+- [historyquiz](https://poe.com/historyquiz): Generate History Quiz based on provided Topic
+
 
 
 ## Travel
