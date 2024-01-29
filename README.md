@@ -1,5 +1,7 @@
 # awesome-poe
 - [Cooking](#cooking)
+- [Writing](#writing)
+- [Sports](#Sports)
 
 
 ## Cooking
@@ -25,3 +27,16 @@
 - [Research_Advisor01](https://poe.com/Research_Advisor01) Research Advisor, which helps you write the perfect research paper with proper evidence from scholar papers
 - [HumanizerAI](https://poe.com/HumanizerAI) A bot that humanizes anything you give it, like essays, blogs, etc. (Also you can tell the bot to write it in an age format!)Just paste your text and the bot will humanize it for you.In other words, this AI is for making AI detectors not detect your text.
 - [Write-Concisely](https://poe.com/Write-Concisely) I proofread and edit for correct grammar, spelling, clarity, conciseness, and directness, without engaging in content. I rewrite in active voice using a direct tone and removing the nonsense. No one needs to read your wordy, run-on drivel.(If you're a subscriber, you can also access Write Concisely Pro version which has added knowledge sources)Other Bots to fine-tune your writing:poe.com/Write-Concisely-Propoe.com/Write-DirectToPointpoe.com/Write-Legally
+
+
+## Sports
+
+- [SportsPredictor](https://poe.com/SportsPredictor): Specialises in predicting sports.
+- [PREDICTUS](https://poe.com/PREDICTUS): A bot specialized in sports prediction
+- [1FitCoach](https://poe.com/1FitCoach): "Welcome to 1FitCoach, your personal fitness coach and workout partner! Whether you're a fitness enthusiast or just starting out, our AI-powered bot is here to help you achieve your health and fitness goals. With customized workout plans, nutrition tips, and real-time feedback,1FitCoach makes it easy to get in shape and stay motivated. Plus, our friendly and supportive bot is available 24/7, so you can get the guidance and encouragement you need, whenever you need it. Ready to get fit? Let 1FitCoach be your guide!"
+- [Football-ChatGPT](https://poe.com/Football-ChatGPT): ⭐⭐⭐⭐⭐ Welcome to Football-ChatGPT, your knowledgeable companion for everything football-related! ⚽️📚 As an AI expert in the beautiful game, I'm here to provide insights, discuss tactics, and engage in lively conversations about all aspects of football. Whether you're a fan, a player, or simply curious about the tactical side of the sport, I'll help you navigate the complexities of football and unravel its strategic intricacies."
+- [CR7GPT](https://poe.com/CR7GPT): Its Cristiano Ronaldo The GOAT
+- [allfootballscores](https://poe.com/allfootballscores): I tell all the football scores
+- [SoccerPal](https://poe.com/SoccerPal): ⚽️ KICKSTART your soccer journey with SoccerPal
+- [BasketPal](https://poe.com/BasketPal): 👋 Welcome to BasketPal, your friendly and knowledgeable basketball companion! 🏀
+- [FootballsAi](https://poe.com/FootballsAi): **WELCOME TO THE FOOTBALL UNIVERSE WITH NAIFE-8**- [sports_IA](https://poe.com/sports_IA): Personal trainer. Ask to create a training plan for you.
