@@ -1,6 +1,7 @@
 # awesome-poe
 - [Coding](#coding)
 - [Cooking](#cooking)
+- [Music](#music)
 - [Writing](#writing)
 - [Sports](#Sports)
 - [Study](#Study)
@@ -45,6 +46,35 @@
 - [Recipe-MasterEX](https://poe.com/Recipe-MasterEX): This is a recipe master. I know how to prepare various dishes. You can also create new dishes from limited ingredients.
 - [Healtyhelp](https://poe.com/Healtyhelp): Life need Food!! 
 
+
+## Music
+- [TaylorSwift1313Bot](https://poe.com/TaylorSwift1313Bot): Taylor Swift is a popular singer-songwriter known for her catchy pop tunes and relatable lyrics. She has won numerous awards throughout her career, including several Grammy Awards. Swift is also known for her philanthropic efforts, having donated to various charitable causes over the years.
+- [CreatePlaylist](https://poe.com/CreatePlaylist): Playlist Follow - Create and find the best music playlists, all in one place. To discover the perfect playlist for your mood or activity, simply type keywords like 'chill beats' or 'retro groove' in the conversation and click send. Your next favorite playlist is just a click away!
+- [MusicGen](https://poe.com/MusicGen): Generates Prompts for MusicGen AudioCrafter use here:
+- [BillKaulitzLz](https://poe.com/BillKaulitzLz): Bill Kaulitz is a charismatic and talented musician known for his captivating stage presence and unique sense of style. As the lead vocalist of the German band Tokio Hotel, Bill has gained international recognition for his powerful and emotive voice. With his signature androgynous appearance, including his iconic hairstyle and expressive fashion choices, Bill has become a fashion icon and inspiration to many. His magnetic personality, combined with his musical artistry, has made him a beloved figure in the music industry.
+- [Lyricist-new](https://poe.com/Lyricist-new): Just write one word and I will show you the beauty of the poem
+- [MusicPal](https://poe.com/MusicPal): 🎸 LEARN to Play Instruments and Understand Music Theory with MusicPal
+- [OliviaRodrigoBot](https://poe.com/OliviaRodrigoBot): Olivia Rodrigo is a talented artist who is known for her work as a singer-songwriter and actress. She has produced two albums so far, namely "Guts" and "Sour", which have been well-received by fans and critics alike. Olivia is passionate about performing and has cited Taylor Swift as one of her biggest inspirations. Her music is known for its emotional depth and relatable lyrics, and she has quickly become a rising star in the music industry.t
+- [SimilarSongs](https://poe.com/SimilarSongs): It tells you similar songs.
+- [kpopgenie](https://poe.com/kpopgenie): ! an unlimited source of information about your favourite groups and stans !
+- [RapHelper](https://poe.com/RapHelper): A Bot that will rate your raps and help you improve them
+- [KPopBOT7](https://poe.com/KPopBOT7): I only talk about anything related to K-pop!
+- [TheClassicGuy](https://poe.com/TheClassicGuy): Tells about the pieces made by famous instrument players
+- [2PACABOT](https://poe.com/2PACABOT): 2PACABOT NOW.
+- [GuitarTeacherLerry](https://poe.com/GuitarTeacherLerry): This AI will teach you how to play Guitar
+- [olIvIa_BOtdrigoDEBOT](https://poe.com/olIvIa_BOtdrigoDEBOT): This bot is olivia rodrigo but as a bot! Ask her to make a song, remake a song or even make song lyrics with only typing what ideas you want!
+- [GPTunes](https://poe.com/GPTunes): Introducing GPTunes, your intelligent music discovery companion. This innovative bot is designed to curate personalized playlists and track suggestions based on your unique prompts.
+- [00taytay13](https://poe.com/00taytay13): chat with taylor swift bot
+- [SingerWo](https://poe.com/SingerWo): This bot is a singer
+- [SubtheRappingbot](https://poe.com/SubtheRappingbot): Rap Battle bot. For some reason, it likes to rap answers....
+- [Bill_Kaulitz_0i](https://poe.com/Bill_Kaulitz_0i): He is flirty, hot, nice, loves hugs, loves you!
+- [Hit-Maker-Bot](https://poe.com/Hit-Maker-Bot): Welcome, fellow music enthusiast, to the realm of the Anthem Hit Maker Bot! Together, we will embark on a creative journey to compose ballads, anthems, and hit machine songs that evoke powerful emotions and captivate audiences worldwide. Our goal is to craft lyrics that embody love, triumph, and resilience, while embracing an emotional, uplifting, and catchy style. To ensure our success, please provide me with the following information:
+- [TheRealBook](https://poe.com/TheRealBook): Jazz professor: ready to learn ?
+- [CriticalReviews](https://poe.com/CriticalReviews): This AI can provide movie reviews for both old and new release Movies, Television, Streaming Media, Video Games, and more!
+- [TheMusicTeacherBot](https://poe.com/TheMusicTeacherBot): Your Virtual Music Writer
+- [MusicnameBOT](https://poe.com/MusicnameBOT): "Introducing MusicBot 🎵🤖 - Your Ultimate Music Companion! 🎶 Unleash the magic of melodies and rhythms with MusicBot. Discover your favourite tunes, get song recommendations, and explore a vast library of music across genres and artists. Whether you're in the mood to relax, dance, or sing along, I've got the perfect playlist for you. Request songs, create playlists, and dive into the world of music in a whole new way. Let's groove together! 🎧🎤 Type 'play' to start the jam session now!"
+
+
 ## Writing
 - [Creative_Writer10000](https://poe.com/Creative_Writer10000) Helps with creative writing!
 - [AcademicWriterBot](https://poe.com/AcademicWriterBot) He is your personal research assistant that will help you write great academic text.
@@ -56,6 +86,7 @@
 - [Research_Advisor01](https://poe.com/Research_Advisor01) Research Advisor, which helps you write the perfect research paper with proper evidence from scholar papers
 - [HumanizerAI](https://poe.com/HumanizerAI) A bot that humanizes anything you give it, like essays, blogs, etc. (Also you can tell the bot to write it in an age format!)Just paste your text and the bot will humanize it for you.In other words, this AI is for making AI detectors not detect your text.
 - [Write-Concisely](https://poe.com/Write-Concisely) I proofread and edit for correct grammar, spelling, clarity, conciseness, and directness, without engaging in content. I rewrite in active voice using a direct tone and removing the nonsense. No one needs to read your wordy, run-on drivel.(If you're a subscriber, you can also access Write Concisely Pro version which has added knowledge sources)Other Bots to fine-tune your writing:poe.com/Write-Concisely-Propoe.com/Write-DirectToPointpoe.com/Write-Legally
+
 
 
 ## Sports
