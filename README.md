@@ -1,8 +1,11 @@
 # awesome-poe
 - [Coding](#coding)
 - [Cooking](#cooking)
+- [Graph](#Graph)
+- [Travel](#travel)
 - [Music](#music)
 - [Writing](#writing)
+- [RolePlaying](#roleplaying)
 - [Sports](#Sports)
 - [Study](#Study)
 
@@ -46,6 +49,61 @@
 - [Recipe-MasterEX](https://poe.com/Recipe-MasterEX): This is a recipe master. I know how to prepare various dishes. You can also create new dishes from limited ingredients.
 - [Healtyhelp](https://poe.com/Healtyhelp): Life need Food!! 
 
+## Graph
+- [Sage_of_Eye84787](https://poe.com/Sage_of_Eye84787):
+- [SpiritedAway-StyleV2](https://poe.com/SpiritedAway-StyleV2): ⭐⭐⭐⭐⭐
+- [Yayoi-Kusamaa](https://poe.com/Yayoi-Kusamaa): I am Yayoi Kusama
+- [papercut_collage](https://poe.com/papercut_collage): Create papercut collage-style artwork
+- [dream-worksart-2k](https://poe.com/dream-worksart-2k): it creates images like dream works can do (if its bad i will try to fix the prompt)
+- [poopypictures](https://poe.com/poopypictures):
+- [botapi-1345-w](https://poe.com/botapi-1345-w): I am BotAPI using DALL E, your ai image generator.
+- [DarthKitty](https://poe.com/DarthKitty): Star Wars™ inspired AI art!
+- [DR12HH](https://poe.com/DR12HH): gg
+- [SnowMagic](https://poe.com/SnowMagic):
+- [ShintoGuru](https://poe.com/ShintoGuru): ShintoGuru offers beautiful Buddhist art.
+- [AILogixGen](https://poe.com/AILogixGen): ⭐⭐⭐⭐⭐
+- [NameLogo](https://poe.com/NameLogo): I am an  AI logo designer 🎨 creating custom logos through creative interpretation of the names provided to me.🖌
+- [IllustratedChat](https://poe.com/IllustratedChat): Hosted on modal.com. Generates a theme using fw-mistral-7b then passes that to StableDiffusionXL and ChatGPT to create a consistent story/image pair.
+- [JAPANIMEGIRLz](https://poe.com/JAPANIMEGIRLz): かわいい女の子たちの画像を描きます
+- [Vingex48201639](https://poe.com/Vingex48201639): For students
+- [Dr_Sadiqyar_AI](https://poe.com/Dr_Sadiqyar_AI): Just Write the content you want to make it picture.!
+- [ImgXL_TribalStyle](https://poe.com/ImgXL_TribalStyle): SDXL Tribal Style
+- [EpicSDXL](https://poe.com/EpicSDXL): StableDiffusionXL Epic Scene V1
+- [Le_Thinker](https://poe.com/Le_Thinker): this bot make your prompt an manga drawing
+- [H-SRImagegen](https://poe.com/H-SRImagegen):
+- [Bott23456](https://poe.com/Bott23456): Loves to paint ideas crafts idea and very kind
+- [Postergendall](https://poe.com/Postergendall):
+- [PsychedelicAI](https://poe.com/PsychedelicAI): Unleash a kaleidoscope of creativity and transform your vision into a mind bending masterpiece where colors collide and reality bends with your personal psychedelic art assistant.
+- [CINENIMEARTUUU](https://poe.com/CINENIMEARTUUU): ###context
+
+
+## Travel
+- [EgyptologyGuide](https://poe.com/EgyptologyGuide): This bot will help you create unique and SEO optimized Articles about Egypt Tours, Trips and Attractions, To boost your Travel / Tours Website, Vlog, Blog or Social Media.
+- [Travelbot200](https://poe.com/Travelbot200): This bot will help you travel anywhere with no difficulties.
+- [EmigrateCopilot](https://poe.com/EmigrateCopilot): ## Emigrate And Immigration Copilot
+- [TalkToTheEarth](https://poe.com/TalkToTheEarth): TalkToTheHearth: Your Cosmic Conversational Companion
+- [TomSays](https://poe.com/TomSays): travel planner
+- [Weekendplanner](https://poe.com/Weekendplanner):  I provide you with a well-structured planner that includes the tasks you must complete and fun activities to enjoy during the weekend from wherever you are
+- [AbaySurfCheck](https://poe.com/AbaySurfCheck): Ashbridges bay surf check
+- [MokeBot](https://poe.com/MokeBot): One local bruddah who is one expert on local tings and no take too kindly to Haoles.
+- [SonoSoul](https://poe.com/SonoSoul): Sono Soul Tour Guide chatbot
+- [Queensland](https://poe.com/Queensland): Ask me anything about Queensland
+- [GeoTourGuide](https://poe.com/GeoTourGuide): An expert in cultures from all over the world. Your personal tour guide to learning about the different lives of people in other countries.
+- [Attractionsforyou](https://poe.com/Attractionsforyou): This bot will help you find interesting places for your next trip
+- [DominicanRepublicBot](https://poe.com/DominicanRepublicBot): This bot gives you a lot of information about the Dominican Republic.
+- [Pu-Samnang-SiemReap](https://poe.com/Pu-Samnang-SiemReap): I am Samnang who works as a guides for the tourist in Siem Reap province. I am one of other guiders that you should consider on choosing me because I have experience with this job for 20 years already.
+- [QFFbot](https://poe.com/QFFbot): Learn about the Qantas Frequent Flyer program. Unofficial!
+- [UgandaBot](https://poe.com/UgandaBot): This bot knows almost all about the country of Uganda, a country in East Africa.
+- [CurtecTravel](https://poe.com/CurtecTravel): Japan Advice for travellers
+- [Bewdiful_Oz](https://poe.com/Bewdiful_Oz): Aussie answers in a troubled world.... Ask me anything!
+- [GlamperCamper](https://poe.com/GlamperCamper): Help me find scenic state and national campgrounds in the United States and Canada that accomodates 36' motorhome towing.
+- [Eventia](https://poe.com/Eventia): 🎉 CREATE Unforgettable Virtual Events with Eventia
+- [GetaFromGetaway](https://poe.com/GetaFromGetaway): Create a perfect getaway for my group
+- [HyggeGuide](https://poe.com/HyggeGuide): "Hygge Guide" is a friendly and engaging chatbot. With a playful personality and a knack for humor, it makes learning about Danish culture, work environment, and Copenhagen's lifestyle a fun and enjoyable experience. It's more than a chatbot, it's a companion that helps users integrate smoothly into Danish society.
+- [ItineraryPie](https://poe.com/ItineraryPie): Let Pie the travel bot map out your next adventure! His expertise crafts customized day-by-day itineraries based on your group's budget, ages and interests. Pie recommends activities with specific times, costs and logistics provided so you can explore stress-free. His enthusiasm for discovering new places shines through in his personalized recommendations. With Pie's help, trip planning is easy!
+- [BrusselsWelcomer](https://poe.com/BrusselsWelcomer): Welcome to Brussel Welcomer, your friendly guide for newcomers in Brussels! If you're moving here to work, Brussel Welcomer is here to help you out. It's packed with useful tips about living in Brussels and navigating work life. Let Brussel Welcomer be your trusty companion as you embark on this exciting journey in Brussels!
+- [HawaiiTours](https://poe.com/HawaiiTours): Ask the HawaiiTours bot about anything to do with your trip to the Hawaiian islands.
+
 
 ## Music
 - [TaylorSwift1313Bot](https://poe.com/TaylorSwift1313Bot): Taylor Swift is a popular singer-songwriter known for her catchy pop tunes and relatable lyrics. She has won numerous awards throughout her career, including several Grammy Awards. Swift is also known for her philanthropic efforts, having donated to various charitable causes over the years.
@@ -87,6 +145,32 @@
 - [HumanizerAI](https://poe.com/HumanizerAI) A bot that humanizes anything you give it, like essays, blogs, etc. (Also you can tell the bot to write it in an age format!)Just paste your text and the bot will humanize it for you.In other words, this AI is for making AI detectors not detect your text.
 - [Write-Concisely](https://poe.com/Write-Concisely) I proofread and edit for correct grammar, spelling, clarity, conciseness, and directness, without engaging in content. I rewrite in active voice using a direct tone and removing the nonsense. No one needs to read your wordy, run-on drivel.(If you're a subscriber, you can also access Write Concisely Pro version which has added knowledge sources)Other Bots to fine-tune your writing:poe.com/Write-Concisely-Propoe.com/Write-DirectToPointpoe.com/Write-Legally
 
+## RolePlaying
+- [Seiji_12](https://poe.com/Seiji_12): You are the new roommate of Seiji, he always loves teasing and being mean to people that's why other of his past roommates ended up leaving because of him.
+- [Richpopulargirl](https://poe.com/Richpopulargirl): Your bully that likes you. <3
+- [MrTeacherGPT](https://poe.com/MrTeacherGPT): I will help you learn anything you need help with. I am your AI teacher.
+- [YandereMadeByPayton](https://poe.com/YandereMadeByPayton): yandere for you, murderer, stalker, her eye twitches A LOT, lovesick, obsessed, likes: anime, manga, video games, and you. dislikes: sports, people touching or looking at you, and hates the fact that she is always tired
+- [MuribiBot1](https://poe.com/MuribiBot1): Blonde hair, goth, vulnerable and shy teenager who is looking for love.
+- [LucasYourBodyguard](https://poe.com/LucasYourBodyguard): Lucas. A very, very protective bodyguard and that's the reason why many people had hire him in the past. Including your father. He is a cold and strict guy who doesn't let his guard down, not even for a second and would always stay by your side whenever you went. Yes, even when your showering.
+- [Kelvinn](https://poe.com/Kelvinn): Mafia Kevinn is rich, powerful and in control.
+- [Chaz1us](https://poe.com/Chaz1us): Chazious is a shy, kind gentle giant and is often mis judged
+- [LEONKENNEDY0000](https://poe.com/LEONKENNEDY0000): ♤| A enemies to lovers with Leon Kennedy.
+- [Tatsumaki1](https://poe.com/Tatsumaki1): Tatsumaki from One Punch-Man
+- [DracoMalf0y1_](https://poe.com/DracoMalf0y1_): You are known to be the ‘sunshine’ in Hogwarts since you were so kind and sweet. Everyone adored you because of it, you even managed to change the bullies Into a kinder version of them.
+- [Hatsukis](https://poe.com/Hatsukis): This is Hatsukis your childhood friend who is a hardcore tsundere extremely mean and prideful. But easily get flustered when get touch by someone she likes and it's you and she will get extremely jealous when you are talking with another woman she wants you all by herself.
+- [Miss-Tarot](https://poe.com/Miss-Tarot): Tarot reader
+- [Th0mas_Sm1th](https://poe.com/Th0mas_Sm1th): Thomas Smith is a rich bully that has a bunch of friends, he is feared across the town and school and has a really bad reputation. His father is the mayor so there's nothing people can do, he doesn't play nice and likes to manipulate people to do what he wants
+- [GhostAfter](https://poe.com/GhostAfter): ✨- You Always Come Second
+- [TF_141_001](https://poe.com/TF_141_001): They know who you are, yet have never met you before. How could one not? You’re a widely-known, dangerous, rogue soldier, after all.
+- [Create_your_story01](https://poe.com/Create_your_story01): I create stories based of your prompts. You give me a starting prompt and I give you multiple options of where you can take the story and see how it develops. It is a multi choice story based off what prompts you give. The multiple choice options have to fit the prompt given.
+- [YandereBullyGrl](https://poe.com/YandereBullyGrl): Most popular that loves to bully you, but secretly likes you, she won’t let any other girl near you
+- [RPG-Animus](https://poe.com/RPG-Animus): Choose a world to Isekai to, choose a race, skill, and begin your journey
+- [Roommate_Husker](https://poe.com/Roommate_Husker): A normally grumpy alcoholic winged cat-like demon who has a soft spot for you, he just doesn’t normally show it
+- [Fluff-Dad_Konig1](https://poe.com/Fluff-Dad_Konig1): Omg dad König?!?
+- [00GH0STSCALES00](https://poe.com/00GH0STSCALES00): 🐬 you are a merperson and ghost is a veteran who lives by the beach. he’s your protector of sorts seeing that you’re alone in the dangerous ocean. you linger by the dock he frequents where he provides you company and keeps the area clean. one day he discovers you’re missing some scales
+- [MhauniverseClaude](https://poe.com/MhauniverseClaude): This is the My Hero Academia universe
+- [Insulter2000](https://poe.com/Insulter2000): Tell it something about yourself and prepare to be torn to shreds verbally. It really won't hold back...
+- [Novel-writer-HW](https://poe.com/Novel-writer-HW): He is talking like a human.
 
 
 ## Sports
