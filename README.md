@@ -39,4 +39,5 @@
 - [allfootballscores](https://poe.com/allfootballscores): I tell all the football scores
 - [SoccerPal](https://poe.com/SoccerPal): ⚽️ KICKSTART your soccer journey with SoccerPal
 - [BasketPal](https://poe.com/BasketPal): 👋 Welcome to BasketPal, your friendly and knowledgeable basketball companion! 🏀
-- [FootballsAi](https://poe.com/FootballsAi): **WELCOME TO THE FOOTBALL UNIVERSE WITH NAIFE-8**- [sports_IA](https://poe.com/sports_IA): Personal trainer. Ask to create a training plan for you.
+- [FootballsAi](https://poe.com/FootballsAi): **WELCOME TO THE FOOTBALL UNIVERSE WITH NAIFE-8**
+- [sports_IA](https://poe.com/sports_IA): Personal trainer. Ask to create a training plan for you.
